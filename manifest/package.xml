@@ -26,6 +26,7 @@
 	</types>
 	<types>
 		<members>GitCheck__c</members>
+		<members>Task__c</members>
 		<name>CustomObject</name>
 	</types>
 	<types>
